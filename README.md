@@ -15,3 +15,12 @@ You can activate the environment with:
 ```
 source spacy_venv/bin/activate
 ```
+
+You have to install spacy and all the dependencies, for that you can install from
+the requirements.pip file like:
+
+```
+pip install -r requirements.pip
+```
+
+Now play with spacy.
